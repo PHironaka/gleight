@@ -15,8 +15,11 @@ a {
 
   &:focus,
   &:hover {
-    color: rgba(#000, 0.6);
+    border-bottom: 1px solid #fff;
+    padding: 7px 0;
   }
+
+
 }
 
 .middleman-logo {
@@ -52,10 +55,10 @@ video {
 }
 
 .bergdorf {
-  position:relative;
-
-    z-index:1;
-  padding: 64vh 1rem 0;
+     position: relative;
+    z-index: 1;
+    padding: 79vh 1rem 0;
+    font-size: .8em;
    a {
     color:white;
     text-decoration:none;
@@ -66,7 +69,9 @@ video {
 header {
   position:relative;
   z-index:1;
-  padding: 8vh 1rem;
+  padding: 3vh 1rem;
+    font-size: .7em;
+
   a {
     color:white;
     text-decoration:none;
