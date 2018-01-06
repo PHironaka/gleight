@@ -34,7 +34,7 @@ body {
 }
 
 .container {
-    max-width: 63em;
+    max-width: 80em;
     margin-left: auto;
     margin-right: auto;
     margin: 0 auto;
@@ -72,6 +72,15 @@ header {
   padding: 3vh 1rem;
     font-size: .7em;
 
+    .logo {
+        position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    float:left;
+    }
+
   a {
     color:white;
     text-decoration:none;
@@ -86,7 +95,9 @@ header {
    nav.right {
   float:right;
   line-height: 3em;
-
+  svg {
+        padding: 5px 5px 0 0;
+    }
   }
 
 }
