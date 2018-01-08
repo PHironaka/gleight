@@ -99,12 +99,24 @@ header {
    nav.right {
   float:right;
       margin: 7px;
+
   svg {
         padding: 0px 15px 0 0;
     position: relative;
     display: block;
     float: left;
+@media screen and (max-width: 591px) {
+    float: none;
+    display:inline;    
+    }
+
+    }
+
+    @media screen and (max-width: 591px) {
+        width: 100%;
     }
   }
 
 }
+
+
