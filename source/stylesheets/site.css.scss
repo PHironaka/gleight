@@ -33,6 +33,10 @@ body {
   background-size: cover;
 }
 
+.shop {
+  display:inline-block;
+}
+
 .container {
     max-width: 90%;
     margin-left: auto;
@@ -94,9 +98,12 @@ header {
 
    nav.right {
   float:right;
-  line-height: 3em;
+      margin: 7px;
   svg {
-        padding: 5px 5px 0 0;
+        padding: 0px 15px 0 0;
+    position: relative;
+    display: block;
+    float: left;
     }
   }
 
