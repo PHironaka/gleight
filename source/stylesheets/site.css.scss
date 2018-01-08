@@ -63,6 +63,10 @@ video {
     z-index: 1;
     padding: 79vh 1rem 0;
     font-size: .8em;
+    @media screen and (max-width: 591px) {
+    padding: 39vh 1rem 0;    
+    }
+
    a {
     color:white;
     text-decoration:none;
