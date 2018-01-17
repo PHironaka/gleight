@@ -111,7 +111,9 @@ header {
     float: left;
 @media screen and (max-width: 591px) {
     float: none;
-    display:inline;    
+    display:inline;   
+   padding: 0px 2px 0 0;
+    margin: -2px 16px; 
     }
 
     }
