@@ -254,8 +254,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('http://lookbook.mrleight.com/fonts/glyphicons-halflings-regular.eot');
+  src: url('http://lookbook.mrleight.com/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
@@ -1164,45 +1164,45 @@ hr {
 }
 @font-face {
   font-family: 'FuturaStd-Bold';
-  src: url('../fonts/futura/2A3BB7_0_0.eot');
-  src: url('../fonts/futura/2A3BB7_0_0.eot?#iefix') format('embedded-opentype'), url('../fonts/futura/2A3BB7_0_0.woff') format('woff'), url('../fonts/futura/2A3BB7_0_0.ttf') format('truetype'), url('../fonts/futura/2A3BB7_0_0.svg#wf') format('svg');
+  src: url('http://lookbook.mrleight.com/fonts/futura/2A3BB7_0_0.eot');
+  src: url('http://lookbook.mrleight.com/fonts/futura/2A3BB7_0_0.eot?#iefix') format('embedded-opentype'), url('../fonts/futura/2A3BB7_0_0.woff') format('woff'), url('../fonts/futura/2A3BB7_0_0.ttf') format('truetype'), url('../fonts/futura/2A3BB7_0_0.svg#wf') format('svg');
 }
 @font-face {
   font-family: 'FuturaStd-HeavyOblique';
-  src: url('../fonts/futura/2A3BB7_1_0.eot');
-  src: url('../fonts/futura/2A3BB7_1_0.eot?#iefix') format('embedded-opentype'), url('../fonts/futura/2A3BB7_1_0.woff') format('woff'), url('../fonts/futura/2A3BB7_1_0.ttf') format('truetype'), url('../fonts/futura/2A3BB7_1_0.svg#wf') format('svg');
+  src: url('http://lookbook.mrleight.com/fonts/futura/2A3BB7_1_0.eot');
+  src: url('http://lookbook.mrleight.com/fonts/futura/2A3BB7_1_0.eot?#iefix') format('embedded-opentype'), url('../fonts/futura/2A3BB7_1_0.woff') format('woff'), url('../fonts/futura/2A3BB7_1_0.ttf') format('truetype'), url('../fonts/futura/2A3BB7_1_0.svg#wf') format('svg');
 }
 @font-face {
   font-family: 'FuturaLT-Book';
-  src: url('../fonts/futura/2A3BB7_2_0.eot');
-  src: url('../fonts/futura/2A3BB7_2_0.eot?#iefix') format('embedded-opentype'), url('../fonts/futura/2A3BB7_2_0.woff') format('woff'), url('../fonts/futura/2A3BB7_2_0.ttf') format('truetype'), url('../fonts/futura/2A3BB7_2_0.svg#wf') format('svg');
+  src: url('http://lookbook.mrleight.com/fonts/futura/2A3BB7_2_0.eot');
+  src: url('http://lookbook.mrleight.com/fonts/futura/2A3BB7_2_0.eot?#iefix') format('embedded-opentype'), url('../fonts/futura/2A3BB7_2_0.woff') format('woff'), url('../fonts/futura/2A3BB7_2_0.ttf') format('truetype'), url('../fonts/futura/2A3BB7_2_0.svg#wf') format('svg');
 }
 @font-face {
   font-family: 'FuturaLT-Heavy';
-  src: url('../fonts/futura/2A3BB7_3_0.eot');
-  src: url('../fonts/futura/2A3BB7_3_0.eot?#iefix') format('embedded-opentype'), url('../fonts/futura/2A3BB7_3_0.woff') format('woff'), url('../fonts/futura/2A3BB7_3_0.ttf') format('truetype'), url('../fonts/futura/2A3BB7_3_0.svg#wf') format('svg');
+  src: url('http://lookbook.mrleight.com/fonts/futura/2A3BB7_3_0.eot');
+  src: url('http://lookbook.mrleight.com/fonts/futura/2A3BB7_3_0.eot?#iefix') format('embedded-opentype'), url('../fonts/futura/2A3BB7_3_0.woff') format('woff'), url('../fonts/futura/2A3BB7_3_0.ttf') format('truetype'), url('../fonts/futura/2A3BB7_3_0.svg#wf') format('svg');
 }
 @font-face {
   font-family: 'FuturaStd-Heavy';
-  src: url('../fonts/futura/FuturaStd-Heavy.eot?#iefix') format('embedded-opentype'), url('../fonts/futura/FuturaStd-Heavy.otf') format('opentype'), url('../fonts/futura/FuturaStd-Heavy.woff') format('woff'), url('../fonts/futura/FuturaStd-Heavy.ttf') format('truetype'), url('../fonts/futura/FuturaStd-Heavy.svg#FuturaStd-Heavy') format('svg');
+  src: url('http://lookbook.mrleight.com/fonts/futura/FuturaStd-Heavy.eot?#iefix') format('embedded-opentype'), url('../fonts/futura/FuturaStd-Heavy.otf') format('opentype'), url('../fonts/futura/FuturaStd-Heavy.woff') format('woff'), url('../fonts/futura/FuturaStd-Heavy.ttf') format('truetype'), url('../fonts/futura/FuturaStd-Heavy.svg#FuturaStd-Heavy') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'AvantGardeGothicXlt';
-  src: url('/webfonts/ITCAvantGardeStd-XLt.otf') format('opentype');
+  src: url('http://lookbook.mrleight.com/webfonts/ITCAvantGardeStd-XLt.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'AvantGardeGothicBook';
-  src: url('/webfonts/ITCAvantGardeStd-Bk.otf') format('opentype');
+  src: url('http://lookbook.mrleight.com/webfonts/ITCAvantGardeStd-Bk.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'AvantGardeGothicDemi';
-  src: url('/webfonts/ITCAvantGardeStd-Demi.otf') format('opentype');
+  src: url('http://lookbook.mrleight.com/webfonts/ITCAvantGardeStd-Demi.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
