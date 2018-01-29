@@ -1190,19 +1190,19 @@ hr {
 }
 @font-face {
   font-family: 'AvantGardeGothicXlt';
-  src: url('http://lookbook.mrleight.com/webfonts/ITCAvantGardeStd-XLt.otf') format('opentype');
+  src: url('/webfonts/ITCAvantGardeStd-XLt.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'AvantGardeGothicBook';
-  src: url('http://lookbook.mrleight.com/webfonts/ITCAvantGardeStd-Bk.otf') format('opentype');
+  src: url('/webfonts/ITCAvantGardeStd-Bk.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'AvantGardeGothicDemi';
-  src: url('http://lookbook.mrleight.com/webfonts/ITCAvantGardeStd-Demi.otf') format('opentype');
+  src: url('/webfonts/ITCAvantGardeStd-Demi.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
